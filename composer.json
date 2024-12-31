@@ -1,0 +1,16 @@
+{
+    "name": "krizk/crappy_laravel",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/",
+            "Helper\\": "helper/"
+        }
+    },
+    "authors": [
+        {
+            "name": "trinantaasembiring",
+            "email": "kurniawan.rizki.2305356@students.um.ac.id"
+        }
+    ],
+    "require": {}
+}
